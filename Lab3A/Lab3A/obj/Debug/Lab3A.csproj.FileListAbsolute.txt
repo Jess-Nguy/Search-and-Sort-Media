@@ -1,0 +1,14 @@
+C:\Users\Jess Nguyen\Desktop\Semester 3\C#\Lab3A\Lab3A\obj\Debug\Lab3A.csprojAssemblyReference.cache
+C:\Users\Jess Nguyen\Desktop\Semester 3\C#\Lab3A\Lab3A\obj\Debug\Lab3A.csproj.CoreCompileInputs.cache
+C:\Users\Jess Nguyen\Desktop\Semester 3\C#\Lab3A\Lab3A\bin\Debug\Lab3A.exe.config
+C:\Users\Jess Nguyen\Desktop\Semester 3\C#\Lab3A\Lab3A\bin\Debug\Lab3A.exe
+C:\Users\Jess Nguyen\Desktop\Semester 3\C#\Lab3A\Lab3A\bin\Debug\Lab3A.pdb
+C:\Users\Jess Nguyen\Desktop\Semester 3\C#\Lab3A\Lab3A\obj\Debug\Lab3A.exe
+C:\Users\Jess Nguyen\Desktop\Semester 3\C#\Lab3A\Lab3A\obj\Debug\Lab3A.pdb
+C:\Users\Jess Nguyen\Desktop\Semester 3\C#\LABS\Lab3A\Lab3A\bin\Debug\Lab3A.exe.config
+C:\Users\Jess Nguyen\Desktop\Semester 3\C#\LABS\Lab3A\Lab3A\bin\Debug\Lab3A.exe
+C:\Users\Jess Nguyen\Desktop\Semester 3\C#\LABS\Lab3A\Lab3A\bin\Debug\Lab3A.pdb
+C:\Users\Jess Nguyen\Desktop\Semester 3\C#\LABS\Lab3A\Lab3A\obj\Debug\Lab3A.csprojAssemblyReference.cache
+C:\Users\Jess Nguyen\Desktop\Semester 3\C#\LABS\Lab3A\Lab3A\obj\Debug\Lab3A.csproj.CoreCompileInputs.cache
+C:\Users\Jess Nguyen\Desktop\Semester 3\C#\LABS\Lab3A\Lab3A\obj\Debug\Lab3A.exe
+C:\Users\Jess Nguyen\Desktop\Semester 3\C#\LABS\Lab3A\Lab3A\obj\Debug\Lab3A.pdb
